@@ -5,18 +5,18 @@ const Product = () => {
   return (
     <div>
       <div class="text-center p-10">
-        <h1 class="font-bold text-4xl mb-4">Popular Product</h1>
+        <h1 class="font-bold text-4xl mb-4"> Select a Popular Service </h1>
       </div>
 
       <section id="Projects" class="w-fit mx-auto grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 justify-items-center justify-center gap-y-20 gap-x-14 mt-10 mb-5">
         <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
           <Link href="#">
-            <img src="https://images.unsplash.com/photo-1646753522408-077ef9839300?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NjZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <img src="https://www.bkash.com/uploaded_contents/services/thumb_images/14-insurance_1673328772173.webp" alt="Product" class="h-50 w-50 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-              <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
-              <p class="text-lg font-bold text-black truncate block capitalize">Product Name</p>
+              <span class="text-gray-400 mr-3 uppercase text-xs">Putatoe</span>
+              <p class="text-lg font-bold text-black truncate block capitalize">Insurance</p>
               <div class="flex items-center">
-                <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                <p class="text-lg font-semibold text-black cursor-auto my-3">Pay your Insurance</p>
                 <del>
                   <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
                 </del>
@@ -33,12 +33,12 @@ const Product = () => {
 
         <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
           <Link href="#">
-            <img src="https://images.unsplash.com/photo-1651950519238-15835722f8bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mjh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <img src="https://www.bkash.com/uploaded_contents/services/thumb_images/12-NGO-Payment_1669658036381.webp" alt="Product" class="h-50 w-50 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-              <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
-              <p class="text-lg font-bold text-black truncate block capitalize">Product Name</p>
+              <span class="text-gray-400 mr-3 uppercase text-xs">Putatoe</span>
+              <p class="text-lg font-bold text-black truncate block capitalize">Microfinance</p>
               <div class="flex items-center">
-                <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                <p class="text-lg font-semibold text-black cursor-auto my-3">Pay your loan</p>
                 <del>
                   <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
                 </del>
@@ -55,12 +55,12 @@ const Product = () => {
 
         <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
           <Link href="#">
-            <img src="https://images.unsplash.com/photo-1651950537598-373e4358d320?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MjV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <img src="https://www.bkash.com/uploaded_contents/services/thumb_images/11-education-fee_1669657823584.webp" alt="Product" class="h-50 w-50 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-              <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
-              <p class="text-lg font-bold text-black truncate block capitalize">Product Name</p>
+              <span class="text-gray-400 mr-3 uppercase text-xs">Putatoe</span>
+              <p class="text-lg font-bold text-black truncate block capitalize">Education Fee</p>
               <div class="flex items-center">
-                <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                <p class="text-lg font-semibold text-black cursor-auto my-3">Pay school, college </p>
                 <del>
                   <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
                 </del>
@@ -77,12 +77,12 @@ const Product = () => {
 
         <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
           <Link href="#">
-            <img src="https://images.unsplash.com/photo-1651950540805-b7c71869e689?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mjl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <img src="https://www.bkash.com/uploaded_contents/services/thumb_images/09-remittance_1675086251990.webp" alt="Product" class="h-50 w-50 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-              <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
-              <p class="text-lg font-bold text-black truncate block capitalize">Product Name</p>
+              <span class="text-gray-400 mr-3 uppercase text-xs">Putatoe</span>
+              <p class="text-lg font-bold text-black truncate block capitalize">Remittance</p>
               <div class="flex items-center">
-                <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                <p class="text-lg font-semibold text-black cursor-auto my-3">Send Remittance</p>
                 <del>
                   <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
                 </del>
@@ -99,12 +99,12 @@ const Product = () => {
 
         <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
           <Link href="#">
-            <img src="https://images.unsplash.com/photo-1649261191624-ca9f79ca3fc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NDd8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <img src="https://www.bkash.com/uploaded_contents/services/thumb_images/13-donation_1669034799438.webp" alt="Product" class="h-50 w-50 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-              <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
-              <p class="text-lg font-bold text-black truncate block capitalize">Product Name</p>
+              <span class="text-gray-400 mr-3 uppercase text-xs">Putatoe</span>
+              <p class="text-lg font-bold text-black truncate block capitalize">Donation</p>
               <div class="flex items-center">
-                <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                <p class="text-lg font-semibold text-black cursor-auto my-3">Pay Your Donation</p>
                 <del>
                   <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
                 </del>
@@ -121,12 +121,12 @@ const Product = () => {
 
         <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
           <Link href="#">
-            <img src="https://images.unsplash.com/photo-1649261191606-cb2496e97eee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+            <img src="https://www.bkash.com/uploaded_contents/services/thumb_images/08-loan_1675086226602.webp" alt="Product" class="h-50 w-50 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-              <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
-              <p class="text-lg font-bold text-black truncate block capitalize">Product Name</p>
+              <span class="text-gray-400 mr-3 uppercase text-xs">Putatoe</span>
+              <p class="text-lg font-bold text-black truncate block capitalize">Loan</p>
               <div class="flex items-center">
-                <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                <p class="text-lg font-semibold text-black cursor-auto my-3">Whenever you need</p>
                 <del>
                   <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
                 </del>
